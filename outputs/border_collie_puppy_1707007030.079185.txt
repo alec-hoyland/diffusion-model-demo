@@ -1,0 +1,3 @@
+Prompt: border collie puppy
+
+Negative Prompt: None
